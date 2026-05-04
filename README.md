@@ -6,6 +6,8 @@ I'm Amber Taylor (she/her). I'm currently studying a Bachelor of Computer Scienc
 
 I'm the Ground Control lead for RMIT Hive's entry into [IREC 2026](https://www.esrarocket.org/2026irec)! 
 
+<img width="576" alt="IMG_20260408_173040_Night" src="https://github.com/user-attachments/assets/66618bc0-ed84-459b-a202-e9a3045b084e" />
+
 I am the lead designer and creator of the Legacy [GCS Rocket Monitoring Interface](https://github.com/RMIT-Hive-Rocketry/GCS), as seen below:
 
 <img width="576" height="324" alt="legacy_rmi-08-07_01" src="https://github.com/user-attachments/assets/ef310649-b2cb-48e7-99ec-17cc51a9ba92" />
