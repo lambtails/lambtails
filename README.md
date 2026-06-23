@@ -6,13 +6,13 @@ I'm Amber Taylor (she/her). I'm a compsci student at RMIT University in Australi
 
 I'm the current Ground Control Station lead for RMIT High Velocity Rocketry. I designed and built the [GCS Frontend](https://github.com/RMIT-Hive-Rocketry/GCS) for visualising and monitoring live telemetry data from the ground equipment and avionics, which I've been working on for the last year in preparation for [IREC 2026](https://www.esrarocket.org/2026irec)! 
 
-<img width="576" alt="IMG_20260408_173040_Night" src="https://github.com/user-attachments/assets/66618bc0-ed84-459b-a202-e9a3045b084e" />
+![Screenshot of the GCS frontend showing live video and telemetry](frontend.png)
 
-<img width="576" height="324" alt="legacy_rmi-08-07_01" src="https://github.com/user-attachments/assets/ef310649-b2cb-48e7-99ec-17cc51a9ba92" />
+![Photo of the GCS setup during a dry launch at RMIT Bundoora campus](gcs.jpg)
 
 ### Other work
 
-I have an alt GitHub account with personal projects and less professional work at <a href="https://github.com/gitchly/">
+I have an alt GitHub account for personal projects and less professional work at <a href="https://github.com/gitchly/">
   @gitchly
 <img width="20" height="20" alt="gitchly profile picture" src="https://avatars.githubusercontent.com/u/12066089?v=4" />
 </a>!!
